@@ -24,7 +24,7 @@ $$где\ \mu = 4(k^{2} - w)$$
 # Заключение
 ## Обсуждение результатов
 ## Ссылки на источники
-[1] - короче Maziar Raissi, George Em Karniadakis Physical Informed Deep Learning
-[2] - [4] - примеры прикладного использования PINNs
-[5] - [7] - улучшения PINNs: FBPINNs, etc
-[7] - [9] - статьи на тему Transfer Learning in PINNs
+[1] - короче Maziar Raissi, George Em Karniadakis Physical Informed Deep Learning  
+[2] - [4] - примеры прикладного использования PINNs  
+[5] - [7] - улучшения PINNs: FBPINNs, etc  
+[7] - [9] - статьи на тему Transfer Learning in PINNs  
